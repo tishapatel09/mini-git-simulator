@@ -1,0 +1,39 @@
+MINI GIT PUSH AND PULL TEST
+
+1. LAPTOP HOME - COMMIT HISTORY
+
+Commit IDs:
+- faac11f
+- 9e861ad
+- 2d4efe1
+
+2. PUSH RESULT
+
+Push successful!
+Total commits pushed: 3
+
+3. LAPTOP COLLEGE - PULL RESULT
+
+Pull successful!
+Total commits downloaded: 3
+
+Commit IDs:
+- faac11f
+- 9e861ad
+- 2d4efe1
+
+4. BUDGET FILE VERIFICATION
+
+Both laptop_home and laptop_college contain identical budget.txt files.
+
+Venue: 12000
+Decoration: 7000
+Food: 18000
+Total: 37000
+
+5. FINAL RESULT
+
+Push and pull operations completed successfully.
+Both folders have identical commit histories and file contents.
+
+TEST STATUS: PASSED
